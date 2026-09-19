@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code local settings
+.vscode/
+
+# Microsoft Office temporary files
+~$*
+# Large media and downloaded resource files
+*.mp4
+*.zip
+.env

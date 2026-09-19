@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-community
+langchain-openai
+langchain-neo4j
+neo4j
+pandas
+openpyxl
+pypdf
+python-dotenv
+pydantic
+deepeval
