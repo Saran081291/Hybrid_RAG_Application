@@ -1,7 +1,7 @@
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from pydantic import BaseModel
-from backend.app.pipelines.document_parser import parse_file
-from backend.app.services.hybrid_rag import ingest_documents, hybrid_query
+from app.pipelines.document_parser import parse_file
+from app.services.hybrid_rag import ingest_documents, hybrid_query
 
 app = FastAPI(title="Hybrid RAG Backend API")
 
