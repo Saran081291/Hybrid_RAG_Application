@@ -3,6 +3,7 @@ uvicorn
 python-multipart
 langchain
 langchain-community
+langchain-experimental
 langchain-openai
 langchain-neo4j
 neo4j
